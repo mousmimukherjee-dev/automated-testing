@@ -26,7 +26,7 @@ describe("the page is working as intended, you can start, go no next question an
       })
       const correctAnswerButton = quizButtons.find(item => item.textContent === question.correctAnswer)
       expect(correctAnswerButton).toBeInTheDocument()
-      if (correctAnswerButton === undefined) {
+      if (correctAnswerButton === undefined) {+
         fail()
       }
 

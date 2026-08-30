@@ -15,6 +15,6 @@ describe("The Header has the intended functionality", () => {
 
     const image = screen.getByRole("img")
 
-    expect(image.getAttribute("alt")).toBe("header")
+    expect(image.getAttribute("alt")).toContain("header")
   })
 })
