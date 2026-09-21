@@ -1,0 +1,11 @@
+### 1. Create any additional tests you needed
+
+I did not create any additional tests. I followed the test cases that were provided and built the application based on them.
+
+### 2. Feedback on the tests – how could they have been improved?
+
+The provided tests were helpful for understanding the basic requirements. 
+
+### 3. What should have been tested that the initial tests missed?
+
+I did not find any major missing test cases. 
